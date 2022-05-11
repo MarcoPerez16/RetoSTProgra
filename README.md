@@ -3,6 +3,7 @@
 ### Tecnológico de Monterrey <br/>
 ------------
 ### Equipo 3 : <br/>
+
 Abiel Moisés Borja García A01654937 <br/>
 Aranza García Narvaéz A01654658<br/>
 María Clarita Osorio Vergara A01654530<br/>
