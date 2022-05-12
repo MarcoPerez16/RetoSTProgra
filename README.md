@@ -17,3 +17,4 @@
 4. Seleccionar el ambiente e instalar Pandas, Matplotlip y Numpy
 5. Correr JupyterNotebook con el ambiente creado
 6. Se abre Jupyter, buscas la dirección de los archivos y accedes al notebook que quieras correr y ver
+7. JupyterNotebook funciona por celdas, ir dando reproducir  celda por celda para ver los resultados (Empezar siempre por la primera celda y desplazarse para abajo)
